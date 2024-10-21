@@ -1,4 +1,4 @@
-package Tasks.task_oct16;
+package Tasks_Pallavi;
 
 import java.util.Scanner;
 
